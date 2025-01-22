@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="container mx-auto px-4 py-8">
           <header className="mb-8">
-            <h1 className="text-3xl font-bold">Xぽすと〜〜</h1>
+            <h1 className="text-3xl font-bold">Xぽすと〜〜2回目</h1>
           </header>
           <main>{children}</main>
         </div>
